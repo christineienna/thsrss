@@ -1,0 +1,12 @@
+{
+  "name": "sf-replace-promo",
+  "theme_color": "#B4F8C8",
+  "background_color": "#B4F8C8",
+  "display": "standalone",
+  "short_name": "lwc-app-layout",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": [],
+  "splash_pages": null
+}
