@@ -1,0 +1,29 @@
+div.app {
+  position: fixed;
+  width: 100vw;
+  height: calc(var(--vh, 1vh) * 100);
+  background-color: #ccc;
+}
+div.app > .container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 1rem;
+}
+div.view {
+  padding: 1rem;
+  padding: 0 0.5rem 3rem 0.5rem;
+  overflow: auto;
+  max-height: 100%;
+  margin: 3rem 0 0 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.center {
+  margin: auto 0;
+  text-align: center;
+}
+.container {
+  height: 100%;
+}
