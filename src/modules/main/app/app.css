@@ -27,3 +27,25 @@ div.view {
 .container {
   height: 100%;
 }
+
+/* Custom CSS Below */
+.app {
+  background-color: #fff;
+}
+.container {
+  width: 100%;
+}
+.content {
+  margin: 0 0 21px;
+  text-align: center;
+}
+/* horizontal and vertically align content class */
+.hv-align {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+img {
+  border-radius: 5px;
+}
